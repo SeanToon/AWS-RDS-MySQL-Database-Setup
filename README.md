@@ -34,7 +34,7 @@ Database successfully created!
 
 Connect to MySQL Workbench by first copying the endpoint
 
-<img width="1414" height="1058" alt="image" src="https://github.com/user-attachments/assets/d504db87-e7c3-4429-9f44-1403928e9eea" />
+<img width="818" height="231" alt="image" src="https://github.com/user-attachments/assets/03d7ca7a-0940-4e0e-b95d-05a00081e8fb" />
 
 In MySQL Workbench make a new MySQL Connection, name the connection, paste endpoint in hostname, enter username of database, enter password of database, and then click test connection 
 
